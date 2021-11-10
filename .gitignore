@@ -1,5 +1,7 @@
 # Visual Paradigm
 *.lck
+*.vpp.back
+*.vpp.back*
 
 # Logs
 logs
